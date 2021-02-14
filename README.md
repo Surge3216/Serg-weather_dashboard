@@ -18,7 +18,7 @@ I had an issues with the five day forecast i couldnt get it to junction writing 
 # Links
 
 - Repository: https://github.com/Surge3216/Serg-weather_dashboard
-- application homepage: https://surge3216.github.io/serg-2https://surge3216.github.io/serg-2nd-portfolio/nd-portfolio/
+- application homepage: https://surge3216.github.io/Serg-weather_dashboard/
 
 # License
 
