@@ -1,0 +1,55 @@
+.navbar-brand {
+    font-size: 36px;
+}
+
+.search-header {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.city-name {
+    font-size: 30px;
+}
+
+.forecast-date {
+    font-size: 18px;
+    color: white;
+    padding: auto !important;
+}
+.dot {
+    height: 160px;
+    width: 160px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+.date{
+    margin-left: 42px ;
+}
+.pic{
+    margin-left: 30px;
+    margin-top: -15px;
+    margin-bottom: -25px;
+}
+.tem{
+    margin-left: 35px;
+    margin-bottom: -2px;
+}
+.hum{
+    margin-left: 34px;
+    font-size: 13px;
+}
+body{
+    background-color: black
+    ;
+}
+.leftbox{
+    
+    margin-left: -50px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+.text{
+    color: white;
+}
