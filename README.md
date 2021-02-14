@@ -9,7 +9,7 @@ using bootstap I created some circular div's to display the five day forecast.
 
 # Images
 
-![photo of the application](/assets/weather.PNG)
+![photo of the application](/assets/Weather.png)
 
 # challenges
 
